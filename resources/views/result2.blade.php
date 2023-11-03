@@ -23,12 +23,12 @@
         <!-- menu -->
         <div class="text-black hidden space-x-6 md:flex ml-80">
           <a href="" class="hover:border-b-2 hover:border-[#26577C] duration-75"> Send Goods</a>
-          <a href="" class=" hover:border-b-2 hover:border-[#26577C] duration-75">Track Edmonton</a>
+          <a href="https://calgarytracking.starexpresskargo.com/" class=" hover:border-b-2 hover:border-[#26577C] duration-75">Track Calgary</a>
      
         </div>
         <!-- button -->
         <a
-          href="https://www.google.com/maps/dir/51.1960059,-113.9976033/starexpress/@51.1121214,-114.1801755,11z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x53717115466bb185:0x764be2c77326ab0c!2m2!1d-114.0607551!2d51.0183754?entry=ttu"
+          href="https://www.google.com/maps/dir/51.1960067,-113.997528/16722+113+Ave+NW,+Edmonton,+AB+T5M+2X3/@52.376909,-115.0776593,8z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x53a0213b0071aa17:0x9888e89f20c86051!2m2!1d-113.61073!2d53.56196?entry=ttu"
           class=" hidden text-black p-3 px-6 pt-2 rounded-full border-solid border-[#26577C] border-2 baseline mr-32 hover:text-[#26577C] duration-300 md:block"
           >Direction</a>
           <!-- Hamburger Icon -->
@@ -49,7 +49,7 @@
           class=" text-[#355691] absolute flex-col items-center hidden self-end py-8 mt-10 space-y-6 font-bold bg-white sm:w-auto sm:self-center left-6 right-6 drop-shadow-md"
         >
           <a href="">Send Goods</a>
-          <a href="">Track Edmonton</a>
+          <a href="https://calgarytracking.starexpresskargo.com/">Track Edmonton</a>
          
         </div>
       </div>
